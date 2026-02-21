@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: firstEurekaServer
+server:
+  port: 8071
+	

@@ -1,0 +1,5 @@
+package com.viki.serviceB.config;
+
+public class RestClientConfig {
+
+}

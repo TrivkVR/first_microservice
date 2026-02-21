@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: serviceA
+service:
+	port: 8081		

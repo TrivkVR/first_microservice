@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/media/viki/e54f43f3-c09a-46b1-a10b-8e4403b52930/viki/DevEnvironment/sts-4.27.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.5.v20241023-1957/jre" version="21.0.5"/>
+    <libraryInfo home="/usr/lib/jvm/java-17-openjdk-amd64" version="17.0.18"/>
+    <libraryInfo home="/media/viki/e54f43f3-c09a-46b1-a10b-8e4403b52930/viki/DevEnvironment/sts-4.27.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.5.v20241023-1957" version="21.0.5">
+        <bootpath>
+            <entry path="null"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="null"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="null"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/usr/lib/jvm/java-21-openjdk-amd64" version="21.0.10"/>
+</libraryInfos>

@@ -1,0 +1,11 @@
+package com.viki.serviceB.contoller;
+
+import org.springframework.web.client.RestClient;
+
+import com.netflix.discovery.DiscoveryClient;
+
+public class ServiceBController {
+
+	private final DiscoveryClient discoveryClient;
+	private final RestClient restClient; 
+}
